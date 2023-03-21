@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217162694645",
+    "firebase_url": "https://test-721e9-default-rtdb.firebaseio.com",
+    "project_id": "test-721e9",
+    "storage_bucket": "test-721e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217162694645:android:9216333d0b55f29dd96abc",
+        "android_client_info": {
+          "package_name": "com.example.jotry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217162694645-5n30ckfu1d4qfljej4qc89cm5lehqdpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMJ8jm9bKDfDeLry9MPoIVo6XgiHTbTxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217162694645-5n30ckfu1d4qfljej4qc89cm5lehqdpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
